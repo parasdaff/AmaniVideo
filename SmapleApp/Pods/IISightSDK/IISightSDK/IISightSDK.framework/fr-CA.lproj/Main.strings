@@ -1,0 +1,282 @@
+
+/* Class = "UILabel"; text = "Audio Only"; ObjectID = "1p8-pN-wTx"; */
+"1p8-pN-wTx.text" = "Audio Only";
+
+/* Class = "UILabel"; text = "SIP Server Host"; ObjectID = "2dF-a7-bzT"; */
+"2dF-a7-bzT.text" = "SIP Server Host";
+
+/* Class = "UILabel"; text = "Current Hour"; ObjectID = "3tb-oX-lt6"; */
+"3tb-oX-lt6.text" = "Current Hour";
+
+/* Class = "UILabel"; text = "Chat Only"; ObjectID = "5XX-sm-pqF"; */
+"5XX-sm-pqF.text" = "Chat Only";
+
+/* Class = "UILabel"; text = "Reason: reason"; ObjectID = "78i-qp-a5I"; */
+"78i-qp-a5I.text" = "Reason: reason";
+
+/* Class = "UILabel"; text = "Kutay Inceler"; ObjectID = "7QO-2m-TCd"; */
+"7QO-2m-TCd.text" = "Kutay Inceler";
+
+/* Class = "UILabel"; text = "Waiting for a call..."; ObjectID = "7zI-tB-SRy"; */
+"7zI-tB-SRy.text" = "Waiting for a call...";
+
+/* Class = "UILabel"; text = "powered by 11Sight"; ObjectID = "Bqb-gD-QaK"; */
+"Bqb-gD-QaK.text" = "powered by 11Sight";
+
+/* Class = "UILabel"; text = "A new call from web"; ObjectID = "Bqm-d1-Imo"; */
+"Bqm-d1-Imo.text" = "A new call from web";
+
+/* Class = "UILabel"; text = "Reason: reason"; ObjectID = "Btm-0V-Kgv"; */
+"Btm-0V-Kgv.text" = "Reason: reason";
+
+/* Class = "UITextField"; placeholder = "Contact Information"; ObjectID = "Bzk-AJ-jPh"; */
+"Bzk-AJ-jPh.placeholder" = "Contact Information";
+
+/* Class = "UILabel"; text = "powered by 11Sight"; ObjectID = "CNo-OI-pgt"; */
+"CNo-OI-pgt.text" = "powered by 11Sight";
+
+/* Class = "UILabel"; text = "Web Server Host"; ObjectID = "Ch1-GE-9D8"; */
+"Ch1-GE-9D8.text" = "Web Server Host";
+
+/* Class = "UILabel"; text = "End Call"; ObjectID = "Cm9-1A-sX3"; */
+"Cm9-1A-sX3.text" = "End Call";
+
+/* Class = "UILabel"; text = "Call in progress"; ObjectID = "CtN-Hc-sjq"; */
+"CtN-Hc-sjq.text" = "Call in progress";
+
+/* Class = "UIBarButtonItem"; title = "Item"; ObjectID = "D6a-U7-2Ka"; */
+"D6a-U7-2Ka.title" = "Item";
+
+/* Class = "UILabel"; text = "Forwarded from: John"; ObjectID = "EmV-kI-Pfv"; */
+"EmV-kI-Pfv.text" = "Forwarded from: John";
+
+/* Class = "UILabel"; text = "Tracker: name"; ObjectID = "Fwq-S8-fO2"; */
+"Fwq-S8-fO2.text" = "Tracker: name";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "G3e-N7-NbC"; */
+"G3e-N7-NbC.normalTitle" = "Update";
+
+/* Class = "UILabel"; text = "Decline"; ObjectID = "G4K-ln-Y2T"; */
+"G4K-ln-Y2T.text" = "Decline";
+
+/* Class = "UITextField"; placeholder = "Call reason"; ObjectID = "Guy-Go-nFo"; */
+"Guy-Go-nFo.placeholder" = "Call reason";
+
+/* Class = "UILabel"; text = "Welcome To"; ObjectID = "Ify-e8-jEs"; */
+"Ify-e8-jEs.text" = "Welcome To";
+
+/* Class = "UILabel"; text = "You are ready to originate"; ObjectID = "JdG-ip-udp"; */
+"JdG-ip-udp.text" = "You are ready to originate";
+
+/* Class = "UILabel"; text = "Call Reason"; ObjectID = "LfC-p5-CGs"; */
+"LfC-p5-CGs.text" = "Call Reason";
+
+/* Class = "UILabel"; text = "Web Server Protocol"; ObjectID = "MBb-tx-WWT"; */
+"MBb-tx-WWT.text" = "Web Server Protocol";
+
+/* Class = "UILabel"; text = "Calling..."; ObjectID = "MJD-p3-SbJ"; */
+"MJD-p3-SbJ.text" = "Calling...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Moj-wd-1Nw"; */
+"Moj-wd-1Nw.text" = "Label";
+
+/* Class = "UILabel"; text = "powered by 11Sight"; ObjectID = "MwZ-D8-BXN"; */
+"MwZ-D8-BXN.text" = "powered by 11Sight";
+
+/* Class = "UILabel"; text = "SIP Server Port"; ObjectID = "OxX-np-E4N"; */
+"OxX-np-E4N.text" = "SIP Server Port";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "PNy-3h-LDD"; */
+"PNy-3h-LDD.normalTitle" = "Logout";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "RS1-AM-5pc"; */
+"RS1-AM-5pc.text" = "Cancel";
+
+/* Class = "UIButton"; normalTitle = "Start Call"; ObjectID = "T3x-Z2-pAU"; */
+"T3x-Z2-pAU.normalTitle" = "Start Call";
+
+/* Class = "UITextView"; text = "test"; ObjectID = "TN4-Y2-q41"; */
+"TN4-Y2-q41.text" = "test";
+
+/* Class = "UILabel"; text = "Start Call"; ObjectID = "Ta4-36-2p0"; */
+"Ta4-36-2p0.text" = "Start Call";
+
+/* Class = "UILabel"; text = "Connecting your call..."; ObjectID = "U4u-5e-wfU"; */
+"U4u-5e-wfU.text" = "Connecting your call...";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "VRJ-if-Vnf"; */
+"VRJ-if-Vnf.text" = "Cancel";
+
+/* Class = "UILabel"; text = "11 Video Calls!"; ObjectID = "W8n-nP-CKh"; */
+"W8n-nP-CKh.text" = "11 Video Calls!";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "WKZ-rw-pUE"; */
+"WKZ-rw-pUE.normalTitle" = "Send";
+
+/* Class = "UILabel"; text = "Cancel"; ObjectID = "XLp-tA-9Mm"; */
+"XLp-tA-9Mm.text" = "Cancel";
+
+/* Class = "UINavigationItem"; title = "Change Button Configuration"; ObjectID = "XW6-cP-q4g"; */
+"XW6-cP-q4g.title" = "Change Button Configuration";
+
+/* Class = "UILabel"; text = "Close"; ObjectID = "Xot-Ew-rJl"; */
+"Xot-Ew-rJl.text" = "Close";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Xx7-9W-qnZ"; */
+"Xx7-9W-qnZ.text" = "Label";
+
+/* Class = "UIButton"; normalTitle = "Leave Feedback"; ObjectID = "Yl9-bF-M1H"; */
+"Yl9-bF-M1H.normalTitle" = "Leave Feedback";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "ZOu-Ah-mKP"; */
+"ZOu-Ah-mKP.title" = "Close";
+
+/* Class = "UIButton"; normalTitle = "Save"; ObjectID = "Zkb-UC-XhJ"; */
+"Zkb-UC-XhJ.normalTitle" = "Save";
+
+/* Class = "UIButton"; normalTitle = "Development Settings"; ObjectID = "aaN-ES-P3V"; */
+"aaN-ES-P3V.normalTitle" = "Development Settings";
+
+/* Class = "UILabel"; text = "Remote network bad warning."; ObjectID = "asL-Gg-XbP"; */
+"asL-Gg-XbP.text" = "Remote network bad warning.";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c3H-Rj-9cd"; */
+"c3H-Rj-9cd.text" = "Label";
+
+/* Class = "UILabel"; text = "Chat Only"; ObjectID = "csM-46-JbY"; */
+"csM-46-JbY.text" = "Chat Only";
+
+/* Class = "UITextField"; placeholder = "Current id: random. Write to override."; ObjectID = "ctP-xS-Rcx"; */
+"ctP-xS-Rcx.placeholder" = "Current id: random. Write to override.";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "cuR-8o-PBB"; */
+"cuR-8o-PBB.normalTitle" = "Reset";
+
+/* Class = "UILabel"; text = "End:"; ObjectID = "dIb-gq-0hJ"; */
+"dIb-gq-0hJ.text" = "End:";
+
+/* Class = "UILabel"; text = "Video Call"; ObjectID = "dXU-Jx-1Gm"; */
+"dXU-Jx-1Gm.text" = "Video Call";
+
+/* Class = "UILabel"; text = "Status"; ObjectID = "dXp-NC-rsc"; */
+"dXp-NC-rsc.text" = "Status";
+
+/* Class = "UIButton"; normalTitle = "Change"; ObjectID = "djv-fV-rWr"; */
+"djv-fV-rWr.normalTitle" = "Change";
+
+/* Class = "UILabel"; text = "Video Calling"; ObjectID = "dtg-gz-rwg"; */
+"dtg-gz-rwg.text" = "Video Calling";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "dzq-7M-nR1"; */
+"dzq-7M-nR1.title" = "Title";
+
+/* Class = "UITextView"; text = "test"; ObjectID = "eaq-3K-Yel"; */
+"eaq-3K-Yel.text" = "test";
+
+/* Class = "UILabel"; text = "Duraktaldi"; ObjectID = "eu7-xe-8Gm"; */
+"eu7-xe-8Gm.text" = "Duraktaldi";
+
+/* Class = "UITextField"; placeholder = "Enter phone or email and message"; ObjectID = "fAK-em-EJ4"; */
+"fAK-em-EJ4.placeholder" = "Enter phone or email and message";
+
+/* Class = "UILabel"; text = "Kutay Inceler"; ObjectID = "fHk-dl-mvR"; */
+"fHk-dl-mvR.text" = "Kutay Inceler";
+
+/* Class = "UILabel"; text = "Waiting for a call..."; ObjectID = "gmm-Xb-QXe"; */
+"gmm-Xb-QXe.text" = "Waiting for a call...";
+
+/* Class = "UILabel"; text = "PAUSED"; ObjectID = "hOh-RA-qFu"; */
+"hOh-RA-qFu.text" = "PAUSED";
+
+/* Class = "UILabel"; text = "Starting call.."; ObjectID = "hx0-ps-q8s"; */
+"hx0-ps-q8s.text" = "Starting call..";
+
+/* Class = "UILabel"; text = "STUN Server Host"; ObjectID = "imY-sL-k9Q"; */
+"imY-sL-k9Q.text" = "STUN Server Host";
+
+/* Class = "UINavigationItem"; title = "Title"; ObjectID = "isC-x6-Orn"; */
+"isC-x6-Orn.title" = "Title";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "itn-Ku-wfO"; */
+"itn-Ku-wfO.normalTitle" = "Log In";
+
+/* Class = "UIBarButtonItem"; title = "Close"; ObjectID = "j8x-ew-U5B"; */
+"j8x-ew-U5B.title" = "Close";
+
+/* Class = "UILabel"; text = "Kutay Inceler"; ObjectID = "kdg-QD-Sgc"; */
+"kdg-QD-Sgc.text" = "Kutay Inceler";
+
+/* Class = "UILabel"; text = "Test Session Id"; ObjectID = "lFk-Fn-C1K"; */
+"lFk-Fn-C1K.text" = "Test Session Id";
+
+/* Class = "UILabel"; text = "Please provide basic before starting the call"; ObjectID = "lyF-vD-rTI"; */
+"lyF-vD-rTI.text" = "Please provide basic before starting the call";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "non-x3-fFl"; */
+"non-x3-fFl.title" = "Cancel";
+
+/* Class = "UILabel"; text = "Web Server Port"; ObjectID = "oXE-Gw-wAE"; */
+"oXE-Gw-wAE.text" = "Web Server Port";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ofd-wY-q9t"; */
+"ofd-wY-q9t.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "Tracker: name"; ObjectID = "oib-cQ-g2q"; */
+"oib-cQ-g2q.text" = "Tracker: name";
+
+/* Class = "UILabel"; text = "Leave Your Message"; ObjectID = "ovf-Qf-d45"; */
+"ovf-Qf-d45.text" = "Leave Your Message";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pfa-ak-Het"; */
+"pfa-ak-Het.placeholder" = "Password";
+
+/* Class = "UIButton"; normalTitle = "Close"; ObjectID = "qQ1-6W-NHC"; */
+"qQ1-6W-NHC.normalTitle" = "Close";
+
+/* Class = "UITextView"; text = "Hey"; ObjectID = "qtc-Vz-fhv"; */
+"qtc-Vz-fhv.text" = "Hey";
+
+/* Class = "UILabel"; text = "15:10"; ObjectID = "rMy-Ub-3k7"; */
+"rMy-Ub-3k7.text" = "15:10";
+
+/* Class = "UILabel"; text = "Take Picture"; ObjectID = "sZz-Oi-aqp"; */
+"sZz-Oi-aqp.text" = "Take Picture";
+
+/* Class = "UILabel"; text = "Call establishing..."; ObjectID = "sct-ZU-U7l"; */
+"sct-ZU-U7l.text" = "Call establishing...";
+
+/* Class = "UILabel"; text = "Off Hours can be set so that when a user tries to call you, sees only the message screen during those hours. When Disabled below fields are not used"; ObjectID = "t2j-5H-fcl"; */
+"t2j-5H-fcl.text" = "Off Hours can be set so that when a user tries to call you, sees only the message screen during those hours. When Disabled below fields are not used";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "tE1-Hp-W89"; */
+"tE1-Hp-W89.placeholder" = "Email";
+
+/* Class = "UILabel"; text = "app.11sight.com"; ObjectID = "ta8-dR-tAJ"; */
+"ta8-dR-tAJ.text" = "app.11sight.com";
+
+/* Class = "UILabel"; text = "15:10"; ObjectID = "uAZ-0h-RqD"; */
+"uAZ-0h-RqD.text" = "15:10";
+
+/* Class = "UIButton"; normalTitle = "Share profile"; ObjectID = "uOk-WU-EBw"; */
+"uOk-WU-EBw.normalTitle" = "Share profile";
+
+/* Class = "UILabel"; text = "Video Call"; ObjectID = "vFX-lT-YuM"; */
+"vFX-lT-YuM.text" = "Video Call";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "vMi-wi-zCi"; */
+"vMi-wi-zCi.title" = "Settings";
+
+/* Class = "UILabel"; text = "Forwarded from: John"; ObjectID = "vYT-DR-YDC"; */
+"vYT-DR-YDC.text" = "Forwarded from: John";
+
+/* Class = "UIButton"; normalTitle = "Send"; ObjectID = "vdr-rf-xGe"; */
+"vdr-rf-xGe.normalTitle" = "Send";
+
+/* Class = "UIButton"; normalTitle = "Calls history"; ObjectID = "vnt-Np-cc3"; */
+"vnt-Np-cc3.normalTitle" = "Calls history";
+
+/* Class = "UILabel"; text = "Reject with message"; ObjectID = "z9t-cj-U7E"; */
+"z9t-cj-U7E.text" = "Reject with message";
+
+/* Class = "UILabel"; text = "Upload queue is empty"; ObjectID = "zDe-Wr-nTu"; */
+"zDe-Wr-nTu.text" = "Upload queue is empty";

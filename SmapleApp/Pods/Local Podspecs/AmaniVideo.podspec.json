@@ -1,0 +1,39 @@
+{
+  "name": "AmaniVideo",
+  "version": "1.0.0",
+  "summary": "A short description of AmaniVideoSDK.",
+  "description": "The knob control is a completely customizable widget that can be used in any iOS app. It also plays a little victory fanfare.",
+  "homepage": "http://EXAMPLE/AmaniSDK",
+  "license": "MIT",
+  "authors": {
+    "Pratul": "pratul.dawande@unthinkable.co"
+  },
+  "platforms": {
+    "ios": "11.0"
+  },
+  "source": {
+    "git": "https://github.com/pratuldawande/AmaniVideo.git",
+    "tag": "1.0.0"
+  },
+  "dependencies": {
+    "Alamofire": [
+
+    ],
+    "SwiftLint": [
+
+    ],
+    "iProgressHUD": [
+
+    ],
+    "IQKeyboardManagerSwift": [
+
+    ],
+    "OpenSSL-Universal/Framework": [
+
+    ],
+    "IISightSDK": [
+
+    ]
+  },
+  "vendored_frameworks": "AmaniVideo.framework"
+}

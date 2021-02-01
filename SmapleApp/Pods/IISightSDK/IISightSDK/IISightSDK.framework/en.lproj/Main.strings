@@ -1,0 +1,90 @@
+
+/* Class = "UILabel"; text = "SIP Server Host"; ObjectID = "2dF-a7-bzT"; */
+"2dF-a7-bzT.text" = "SIP Server Host";
+
+/* Class = "UILabel"; text = "Waiting for a call..."; ObjectID = "7zI-tB-SRy"; */
+"7zI-tB-SRy.text" = "Waiting for a call...";
+
+/* Class = "UILabel"; text = "A new call from web"; ObjectID = "Bqm-d1-Imo"; */
+"Bqm-d1-Imo.text" = "A new call from web";
+
+/* Class = "UILabel"; text = "Web Server Host"; ObjectID = "Ch1-GE-9D8"; */
+"Ch1-GE-9D8.text" = "Web Server Host";
+
+/* Class = "UILabel"; text = "Call in progress"; ObjectID = "CtN-Hc-sjq"; */
+"CtN-Hc-sjq.text" = "Call in progress";
+
+/* Class = "UIButton"; normalTitle = "Update"; ObjectID = "G3e-N7-NbC"; */
+"G3e-N7-NbC.normalTitle" = "Update";
+
+/* Class = "UILabel"; text = "Web Server Protocol"; ObjectID = "MBb-tx-WWT"; */
+"MBb-tx-WWT.text" = "Web Server Protocol";
+
+/* Class = "UILabel"; text = "Calling..."; ObjectID = "MJD-p3-SbJ"; */
+"MJD-p3-SbJ.text" = "Calling...";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "Moj-wd-1Nw"; */
+"Moj-wd-1Nw.text" = "Label";
+
+/* Class = "UILabel"; text = "SIP Server Port"; ObjectID = "OxX-np-E4N"; */
+"OxX-np-E4N.text" = "SIP Server Port";
+
+/* Class = "UIButton"; normalTitle = "Logout"; ObjectID = "PNy-3h-LDD"; */
+"PNy-3h-LDD.normalTitle" = "Logout";
+
+/* Class = "UIButton"; normalTitle = "Leave Feedback"; ObjectID = "Yl9-bF-M1H"; */
+"Yl9-bF-M1H.normalTitle" = "Leave Feedback";
+
+/* Class = "UIButton"; normalTitle = "Development Settings"; ObjectID = "aaN-ES-P3V"; */
+"aaN-ES-P3V.normalTitle" = "Development Settings";
+
+/* Class = "UILabel"; text = "Label"; ObjectID = "c3H-Rj-9cd"; */
+"c3H-Rj-9cd.text" = "Label";
+
+/* Class = "UITextField"; placeholder = "Current id: random. Write to override."; ObjectID = "ctP-xS-Rcx"; */
+"ctP-xS-Rcx.placeholder" = "Current id: random. Write to override.";
+
+/* Class = "UIButton"; normalTitle = "Reset"; ObjectID = "cuR-8o-PBB"; */
+"cuR-8o-PBB.normalTitle" = "Reset";
+
+/* Class = "UILabel"; text = "Waiting for a call..."; ObjectID = "gmm-Xb-QXe"; */
+"gmm-Xb-QXe.text" = "Waiting for a call...";
+
+/* Class = "UILabel"; text = "STUN Server Host"; ObjectID = "imY-sL-k9Q"; */
+"imY-sL-k9Q.text" = "STUN Server Host";
+
+/* Class = "UIButton"; normalTitle = "Log In"; ObjectID = "itn-Ku-wfO"; */
+"itn-Ku-wfO.normalTitle" = "Log In";
+
+/* Class = "UILabel"; text = "Test Session Id"; ObjectID = "lFk-Fn-C1K"; */
+"lFk-Fn-C1K.text" = "Test Session Id";
+
+/* Class = "UILabel"; text = "Call establishing..."; ObjectID = "nj9-yZ-nqt"; */
+"nj9-yZ-nqt.text" = "Call establishing...";
+
+/* Class = "UIBarButtonItem"; title = "Cancel"; ObjectID = "non-x3-fFl"; */
+"non-x3-fFl.title" = "Cancel";
+
+/* Class = "UILabel"; text = "Web Server Port"; ObjectID = "oXE-Gw-wAE"; */
+"oXE-Gw-wAE.text" = "Web Server Port";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "ofd-wY-q9t"; */
+"ofd-wY-q9t.normalTitle" = "Button";
+
+/* Class = "UITextField"; placeholder = "Password"; ObjectID = "pfa-ak-Het"; */
+"pfa-ak-Het.placeholder" = "Password";
+
+/* Class = "UITextField"; placeholder = "Email"; ObjectID = "tE1-Hp-W89"; */
+"tE1-Hp-W89.placeholder" = "Email";
+
+/* Class = "UIButton"; normalTitle = "Share profile"; ObjectID = "uOk-WU-EBw"; */
+"uOk-WU-EBw.normalTitle" = "Share profile";
+
+/* Class = "UINavigationItem"; title = "Settings"; ObjectID = "vMi-wi-zCi"; */
+"vMi-wi-zCi.title" = "Settings";
+
+/* Class = "UIButton"; normalTitle = "Calls history"; ObjectID = "vnt-Np-cc3"; */
+"vnt-Np-cc3.normalTitle" = "Calls history";
+
+/* Class = "UILabel"; text = "Upload queue is empty"; ObjectID = "zDe-Wr-nTu"; */
+"zDe-Wr-nTu.text" = "Upload queue is empty";

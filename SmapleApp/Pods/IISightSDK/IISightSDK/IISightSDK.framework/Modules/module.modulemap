@@ -1,0 +1,6 @@
+framework module IISightSDK {
+  umbrella header "IISightSDK.h"
+
+  export *
+  module * { export * }
+}

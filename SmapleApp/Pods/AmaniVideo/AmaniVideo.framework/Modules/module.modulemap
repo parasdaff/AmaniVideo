@@ -1,0 +1,11 @@
+framework module AmaniVideo {
+  umbrella header "AmaniVideo.h"
+
+  export *
+  module * { export * }
+}
+
+module AmaniVideo.Swift {
+    header "AmaniVideo-Swift.h"
+    requires objc
+}
