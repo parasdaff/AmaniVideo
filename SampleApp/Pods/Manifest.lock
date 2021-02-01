@@ -1,0 +1,48 @@
+PODS:
+  - Alamofire (5.4.0)
+  - AmaniVideo (1.0.0):
+    - Alamofire
+    - IISightSDK
+    - iProgressHUD
+    - IQKeyboardManagerSwift
+    - OpenSSL-Universal/Framework
+    - SwiftLint
+  - IISightSDK (5.2.1)
+  - iProgressHUD (1.1.1)
+  - IQKeyboardManagerSwift (6.5.6)
+  - OpenSSL-Universal/Framework (1.0.2.20)
+  - SwiftLint (0.42.0)
+
+DEPENDENCIES:
+  - AmaniVideo (from `https://github.com/pratuldawande/AmaniVideo.git`)
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - IISightSDK
+    - iProgressHUD
+    - IQKeyboardManagerSwift
+    - OpenSSL-Universal
+    - SwiftLint
+
+EXTERNAL SOURCES:
+  AmaniVideo:
+    :git: https://github.com/pratuldawande/AmaniVideo.git
+
+CHECKOUT OPTIONS:
+  AmaniVideo:
+    :commit: e870f3594bad7699584a5f8da1cdc702284bac1d
+    :git: https://github.com/pratuldawande/AmaniVideo.git
+
+SPEC CHECKSUMS:
+  Alamofire: 3b6a534a3df22db367e4dedeeca73d1ddfcf0e2f
+  AmaniVideo: 29f6e827a4571a79e60870478e50d3b75edeeec3
+  IISightSDK: 444a1fb2235b76edad919cd1f187594f7f6004d6
+  iProgressHUD: caa742128253c97f2c2e1ec59e2bbe6cf689df6a
+  IQKeyboardManagerSwift: c7df9d2deb356c04522f5c4b7b6e4ce4d8ed94fe
+  OpenSSL-Universal: ff34003318d5e1163e9529b08470708e389ffcdd
+  SwiftLint: 4fa9579c63416865179bc416f0a92d55f009600d
+
+PODFILE CHECKSUM: 74386982d298d18a4665952482f3675fcf1b0b73
+
+COCOAPODS: 1.9.3

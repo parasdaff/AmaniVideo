@@ -1,0 +1,8 @@
+
+
+target 'SampleApp' do
+  use_frameworks!
+
+  pod 'AmaniVideo', :git => 'https://github.com/pratuldawande/AmaniVideo.git'
+
+end
