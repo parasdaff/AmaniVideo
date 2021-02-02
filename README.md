@@ -93,13 +93,10 @@ class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-
-    // Customer login information
-        let customerModel = CustomerRequestModel(name: "CUSTOMER_NAME", email: "CUSTOMER_EMAIL", phone: "CUSTOMER_PHONE_NUMBER", idCardNumber: "CUSTOMER_ID_CARD")
     // Initialize SDK 
         let amaniSDK = AmaniSDK.sharedInstance
     // Configure SDK 
-        amaniSDK.set(server: "SERVER_URL", userName: "USER_NAME", password: "PASSWORD", customer: customerModel)
+        amaniSDK.set(server: "SERVER_URL", userName: "USER_NAME", password: "PASSWORD")
     // Start SDK 
         amaniSDK.showSDK(overParent: self)
     }
